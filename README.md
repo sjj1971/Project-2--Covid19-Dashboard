@@ -1,5 +1,5 @@
 ## UCI Data Analytics Bootcamp - Group Project #2: COVID-19 Dashboard
-### Erin Averill, Srinivas Hanumansetty, Adrian Llamas, Andrea Rosenberger, and Jungie Son
+### Erin Averill, Srinivas Hanumansetty, Adrian Llamas, Andrea Rosenberger, and Jung Je Son
 
 #### Data Sources
 CDPH Coronavirus Science Branch (3/18/2020 - present)
